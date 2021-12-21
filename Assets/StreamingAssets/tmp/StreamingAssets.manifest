@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1401533100
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gameasset/scene1.ab
+      Dependencies:
+        Dependency_0: gameasset/prefab.ab
+    Info_1:
+      Name: gameasset/scene2.ab
+      Dependencies:
+        Dependency_0: gameasset/sprite.ab
+        Dependency_1: gameasset/prefab.ab
+    Info_2:
+      Name: gameasset/sprite.ab
+      Dependencies: {}
+    Info_3:
+      Name: gameasset/prefab.ab
+      Dependencies: {}

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1547667199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ba327acc456ae998196077856efb9b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameAssets/Mat/mat.mat
+- Assets/GameAssets/Mat/NewImageEffectShader.shader
+- Assets/GameAssets/Mat/11.shader
+- Assets/GameAssets/Mat/test.shader
+Dependencies: []

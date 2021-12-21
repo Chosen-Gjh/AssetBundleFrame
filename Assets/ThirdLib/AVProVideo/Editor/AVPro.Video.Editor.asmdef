@@ -1,0 +1,17 @@
+{
+    "name": "AVPro.Video.Editor",
+    "references": [
+        "GUID:36bf91db48ae8024bad1b14ba15c8cea"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
